@@ -16,3 +16,6 @@ junitproject22, framework'tur
  @After  : her @Test anotationdan sonra calisir. Tekrar eden son kosullari calistirmak icin kullanilir
 
  *@Test, @Before @BeforeClass, @After, @AfterClass, @Ignore
+
+ sleniumdaki degerler 8 tanedir
+ id,name, classname, tagname,link text, partiallink texst xpatch
