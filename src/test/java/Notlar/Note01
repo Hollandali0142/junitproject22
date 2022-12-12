@@ -18,4 +18,4 @@ junitproject22, framework'tur
  *@Test, @Before @BeforeClass, @After, @AfterClass, @Ignore
 
  sleniumdaki degerler 8 tanedir
- id,name, classname, tagname,link text, partiallink texst xpatch
+ id,name, classname, tagname,link text, partiallink texst, xpatch, csslocator
