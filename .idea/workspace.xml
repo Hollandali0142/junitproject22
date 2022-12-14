@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cefa31a9-9340-4aed-b101-dfb4199b19f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/alistirma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day02_C4_xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day02_C4_xpath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Day02_C4_xpath">
+  <component name="RunManager" selected="JUnit.alistirma">
     <configuration name="Day01_C1_FirstMavenClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arcane.Day01_C1_FirstMavenClass" />
       <module name="junitproject22" />
@@ -64,22 +64,6 @@
       <option name="PACKAGE_NAME" value="com.arcane" />
       <option name="MAIN_CLASS_NAME" value="com.arcane.Day01_C2_FirstJUnitClass" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day01_C2_FirstJUnitClass.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day01_C2_FirstJUnitClass" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,13 +98,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="alistirma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.alistirma" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.alistirma" />
         <item itemvalue="JUnit.Day02_C4_xpath" />
         <item itemvalue="JUnit.Day02_C3_LacatorsGiris" />
         <item itemvalue="Application.Day01_C1_FirstMavenClass" />
         <item itemvalue="JUnit.Day01_C2_FirstJUnitClass" />
-        <item itemvalue="JUnit.Day01_C2_FirstJUnitClass.test01" />
       </list>
     </recent_temporary>
   </component>
