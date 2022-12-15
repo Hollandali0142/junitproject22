@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cefa31a9-9340-4aed-b101-dfb4199b19f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C5_GoogleArama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C6_ChekBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C7_JavaFaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C7_JavaFaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C7_JavaFaker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Day03_C6_ChekBox">
+  <component name="RunManager" selected="JUnit.Day03_C7_JavaFaker">
     <configuration name="Day03_C5_GoogleArama" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
@@ -120,10 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day03_C7_JavaFaker" />
         <item itemvalue="JUnit.Day03_C6_ChekBox" />
         <item itemvalue="JUnit.Day03_C6_ChekBox.checkBox" />
         <item itemvalue="JUnit.Day03_C5_GoogleArama" />
-        <item itemvalue="JUnit.Day03_C7_JavaFaker" />
         <item itemvalue="JUnit.alistirma" />
       </list>
     </recent_temporary>
