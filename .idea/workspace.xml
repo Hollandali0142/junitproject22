@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cefa31a9-9340-4aed-b101-dfb4199b19f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/alistirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C5_GoogleArama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C6_ChekBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C7_JavaFaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,21 +41,8 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.alistirma">
-    <configuration name="Day01_C1_FirstMavenClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day01_C1_FirstMavenClass" />
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day01_C2_FirstJUnitClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day03_C6_ChekBox">
+    <configuration name="Day03_C5_GoogleArama" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -62,13 +51,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day01_C2_FirstJUnitClass" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day03_C5_GoogleArama" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_C3_LacatorsGiris" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day03_C6_ChekBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -77,13 +66,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day02_C3_LacatorsGiris" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day03_C6_ChekBox" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_C4_xpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day03_C6_ChekBox.checkBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -92,7 +81,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day02_C4_xpath" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day03_C6_ChekBox" />
+      <option name="METHOD_NAME" value="checkBox" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day03_C7_JavaFaker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day03_C7_JavaFaker" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day03_C6_ChekBox" />
+        <item itemvalue="JUnit.Day03_C6_ChekBox.checkBox" />
+        <item itemvalue="JUnit.Day03_C5_GoogleArama" />
+        <item itemvalue="JUnit.Day03_C7_JavaFaker" />
         <item itemvalue="JUnit.alistirma" />
-        <item itemvalue="JUnit.Day02_C4_xpath" />
-        <item itemvalue="JUnit.Day02_C3_LacatorsGiris" />
-        <item itemvalue="Application.Day01_C1_FirstMavenClass" />
-        <item itemvalue="JUnit.Day01_C2_FirstJUnitClass" />
       </list>
     </recent_temporary>
   </component>
