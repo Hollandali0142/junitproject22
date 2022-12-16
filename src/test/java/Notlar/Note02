@@ -1,0 +1,21 @@
+
+    //faker ile sahte datalar alabiliyoruz
+    //Seleiumda 8 tane locater vardir
+        id,name,className,tagName,linkText,partalLintext, xpath, cssSelector
+    Bu locator kullandigimizda hangi siralamayi takip edersiniz?
+        -oncelikle ben id kullaniyorum cunki genel id biriciktir(UNIQOE) olur.id kullanilmamis ise name kullaniyorum
+        eger name biricik(UNIQUE).
+
+        name='bten-primary'-->Eger class biricik degilse kullanmiyorum.Eger bir elemnt liknk ise, ben LinkText veya
+        partialLinkTex kullanmayi tercih ederim.Bunlar uygun degilose xpath tercih ederim.Elementler icin dinamik
+        xpath kullanirim. Herhangi bir sayfada ve ve herhangi bir element icin xpath yazabilirim.Xpath biraz da
+        yavas olmasina ragmen xpath i tercih ederiz, cunki daha guvenilirdir.
+
+       -findElement(By.locator("value" veya "Text"))-->Bize yalnizca bir tane webelement dondurur=ilk elementi dondurur,eger
+       herhangi bir element bulamazssa , noSuchElementExpection "tthrows" eder
+
+       -findElements(By.locator("value" veya "Text"))-->Bize coklu bir element dondurebilir, List<WebElement> olarak
+       eger herhangi bir element bulamazssa, bos bir List dondurur, exception thros etmez
+
+       //tag[ends-with(@attribute,'Text')]
+
