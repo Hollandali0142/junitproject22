@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cefa31a9-9340-4aed-b101-dfb4199b19f4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day05_11_Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day05_11_Alert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,22 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Day04_C10_HesapOlusturma.hesapolusturma">
-    <configuration name="Day04_C10_HesapOlusturma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day04_C10_HesapOlusturma" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Day05_11_Alert.sendKeysAlert">
     <configuration name="Day04_C10_HesapOlusturma.hesapolusturma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
@@ -68,21 +52,6 @@
       <option name="MAIN_CLASS_NAME" value="com.arcane.Day04_C10_HesapOlusturma" />
       <option name="METHOD_NAME" value="hesapolusturma" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day04_C8_RadioButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day04_C8_RadioButton" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,13 +87,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day05_11_Alert.dismissAllert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day05_11_Alert" />
+      <option name="METHOD_NAME" value="dismissAllert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day05_11_Alert.sendKeysAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day05_11_Alert" />
+      <option name="METHOD_NAME" value="sendKeysAlert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day04_C10_HesapOlusturma.hesapolusturma" />
-        <item itemvalue="JUnit.Day04_C10_HesapOlusturma" />
+        <item itemvalue="JUnit.Day05_11_Alert.sendKeysAlert" />
+        <item itemvalue="JUnit.Day05_11_Alert.dismissAllert" />
         <item itemvalue="JUnit.Day05_11_Alert" />
         <item itemvalue="JUnit.Day05_11_Alert.acceptAlert" />
-        <item itemvalue="JUnit.Day04_C8_RadioButton" />
+        <item itemvalue="JUnit.Day04_C10_HesapOlusturma.hesapolusturma" />
       </list>
     </recent_temporary>
   </component>
