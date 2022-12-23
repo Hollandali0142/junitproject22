@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cefa31a9-9340-4aed-b101-dfb4199b19f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C12_IFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C13_IFrameOrnek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C13_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C14_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C15_Actions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Notlar/Note03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C16_Actions3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C17_Actions4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C18_TestBaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C19_synchronization1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C20_synchronization2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/utilities/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day05_11_Alert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day05_11_Alert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,79 +46,80 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Day06_C15_Actions2">
-    <configuration name="Day06_C13_WindowHandle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day07_C19_synchronization1">
+    <configuration name="Day07_C18_TestBaseDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
+          <option name="PATTERN" value="com.arcane.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C13_WindowHandle" />
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C18_TestBaseDemo" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_C13_WindowHandle.windowHAndle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_C18_TestBaseDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
+          <option name="PATTERN" value="com.arcane.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C13_WindowHandle" />
-      <option name="METHOD_NAME" value="windowHAndle" />
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C18_TestBaseDemo" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_C14_Actions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_C18_TestBaseDemo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
+          <option name="PATTERN" value="com.arcane.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C14_Actions" />
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C18_TestBaseDemo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day07_C19_synchronization1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C19_synchronization1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_C15_Actions2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_C19_synchronization1.synchronization1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
+          <option name="PATTERN" value="com.arcane.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C15_Actions2" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day06_C15_Actions2.hoverOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C15_Actions2" />
-      <option name="METHOD_NAME" value="hoverOver" />
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C19_synchronization1" />
+      <option name="METHOD_NAME" value="synchronization1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day06_C15_Actions2" />
-        <item itemvalue="JUnit.Day06_C15_Actions2.hoverOver" />
-        <item itemvalue="JUnit.Day06_C14_Actions" />
-        <item itemvalue="JUnit.Day06_C13_WindowHandle" />
-        <item itemvalue="JUnit.Day06_C13_WindowHandle.windowHAndle" />
+        <item itemvalue="JUnit.Day07_C19_synchronization1" />
+        <item itemvalue="JUnit.Day07_C19_synchronization1.synchronization1" />
+        <item itemvalue="JUnit.Day07_C18_TestBaseDemo.test1" />
+        <item itemvalue="JUnit.Day07_C18_TestBaseDemo.test2" />
+        <item itemvalue="JUnit.Day07_C18_TestBaseDemo" />
       </list>
     </recent_temporary>
   </component>
