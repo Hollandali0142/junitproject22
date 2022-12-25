@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cefa31a9-9340-4aed-b101-dfb4199b19f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Notlar/Note03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C16_Actions3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C17_Actions4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C18_TestBaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C19_synchronization1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C20_synchronization2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C21_FileExistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C22_FileUploadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C23_FileDowloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C24_Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C25_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C26_JavaScript_Executer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C20_synchronization2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C20_synchronization2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -46,8 +47,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Day07_C19_synchronization1">
-    <configuration name="Day07_C18_TestBaseDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day08_C26_JavaScript_Executer">
+    <configuration name="Day08_C24_Authentication.authTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -56,29 +57,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C18_TestBaseDemo" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day07_C18_TestBaseDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C18_TestBaseDemo" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day08_C24_Authentication" />
+      <option name="METHOD_NAME" value="authTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day07_C18_TestBaseDemo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day08_C25_Cookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -87,29 +73,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C18_TestBaseDemo" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day07_C19_synchronization1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C19_synchronization1" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day08_C25_Cookies" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day07_C19_synchronization1.synchronization1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day08_C25_Cookies.handleCookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +88,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C19_synchronization1" />
-      <option name="METHOD_NAME" value="synchronization1" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day08_C25_Cookies" />
+      <option name="METHOD_NAME" value="handleCookies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day08_C26_JavaScript_Executer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day08_C26_JavaScript_Executer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day08_C26_JavaScript_Executer.scrollIntoView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day08_C26_JavaScript_Executer" />
+      <option name="METHOD_NAME" value="scrollIntoView" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day07_C19_synchronization1" />
-        <item itemvalue="JUnit.Day07_C19_synchronization1.synchronization1" />
-        <item itemvalue="JUnit.Day07_C18_TestBaseDemo.test1" />
-        <item itemvalue="JUnit.Day07_C18_TestBaseDemo.test2" />
-        <item itemvalue="JUnit.Day07_C18_TestBaseDemo" />
+        <item itemvalue="JUnit.Day08_C26_JavaScript_Executer" />
+        <item itemvalue="JUnit.Day08_C26_JavaScript_Executer.scrollIntoView" />
+        <item itemvalue="JUnit.Day08_C25_Cookies" />
+        <item itemvalue="JUnit.Day08_C25_Cookies.handleCookies" />
+        <item itemvalue="JUnit.Day08_C24_Authentication.authTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +175,25 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C25_Cookies.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C25_Cookies.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C23_FileDowloadTest.java</url>
+          <line>23</line>
+          <properties class="com.arcane.tests.Day08_C23_FileDowloadTest" method="FileDownloadTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
